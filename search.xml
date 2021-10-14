@@ -272,11 +272,11 @@
     
     
     <entry>
-      <title>ETC移动发行系统：标签注销</title>
-      <link href="2020/07/07/obuCancel/"/>
-      <url>2020/07/07/obuCancel/</url>
+      <title>ETC移动发行系统：卡签检测（标签检测）</title>
+      <link href="2020/07/07/obuCheck/"/>
+      <url>2020/07/07/obuCheck/</url>
       
-        <content type="html"><![CDATA[<h1 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h1><p>&emsp;&emsp;标签注销主要用于注销已过期标签和办理失败标签（车牌读取乱码、车牌颜色不符）,方便用户现场标签办理失败后能够快速解决。</p><h1 id="基本使用"><a href="#基本使用" class="headerlink" title="基本使用"></a>基本使用</h1><ol><li>ETC移动发行系统主页面，选择【标签注销】。当选择注销类型为无签注销时，进行【无签注销】操作，只需要用户卡即可<table style = "margin-top:-80px">    <tr>       <td><img src="/pub-images/obucancel6.png" width="70%" alt="无签注销"/></td>       <td><img src="/pub-images/obucancel7.png" width="70%" alt="有签注销"/></td>   </tr></table></li></ol><h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ul><li>默认的注销类型：【无签注销】</li><li>注销类型共有二类：【无签注销】</li><li>标签读取车牌和车牌颜色信息失败，请进行【无签注销】操作</li></ul><p>更多故障解决，请参考：<a href="/2019/10/05/problems/">常见故障及其解决方法</a></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h1><p>&emsp;&emsp;通过【标签检测】可查看标签办理信息，用户通过这些信息辅助判断该标签是否办理成功。</p><h1 id="基本操作"><a href="#基本操作" class="headerlink" title="基本操作"></a>基本操作</h1><ol><li>进入标签检测，初始界面</li><li>读取标签成功，展示标签信息界面<table style = "margin-top:-80px">    <tr>       <td><img src="/pub-images/obucheck1.png" width="70%" alt="初始界面"/></td>       <td><img src="/pub-images/obucheck2.png" width="70%" alt="信息展示"/></td>   </tr></table></li></ol><h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ul><li>标签操作时，请确保标签背面的防拆按钮处于按下状态</li></ul><p>更多故障解决，请参考：<a href="/2019/10/05/problems/">常见故障及其解决方法</a></p>]]></content>
       
       
       
@@ -285,11 +285,11 @@
     
     
     <entry>
-      <title>ETC移动发行系统：卡签检测（标签检测）</title>
-      <link href="2020/07/07/obuCheck/"/>
-      <url>2020/07/07/obuCheck/</url>
+      <title>ETC移动发行系统：标签注销</title>
+      <link href="2020/07/07/obuCancel/"/>
+      <url>2020/07/07/obuCancel/</url>
       
-        <content type="html"><![CDATA[<h1 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h1><p>&emsp;&emsp;通过【标签检测】可查看标签办理信息，用户通过这些信息辅助判断该标签是否办理成功。</p><h1 id="基本操作"><a href="#基本操作" class="headerlink" title="基本操作"></a>基本操作</h1><ol><li>进入标签检测，初始界面</li><li>读取标签成功，展示标签信息界面<table style = "margin-top:-80px">    <tr>       <td><img src="/pub-images/obucheck1.png" width="70%" alt="初始界面"/></td>       <td><img src="/pub-images/obucheck2.png" width="70%" alt="信息展示"/></td>   </tr></table></li></ol><h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ul><li>标签操作时，请确保标签背面的防拆按钮处于按下状态</li></ul><p>更多故障解决，请参考：<a href="/2019/10/05/problems/">常见故障及其解决方法</a></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h1><p>&emsp;&emsp;标签注销主要用于注销已过期标签和办理失败标签（车牌读取乱码、车牌颜色不符）,方便用户现场标签办理失败后能够快速解决。</p><h1 id="基本使用"><a href="#基本使用" class="headerlink" title="基本使用"></a>基本使用</h1><ol><li>ETC移动发行系统主页面，选择【标签注销】。当选择注销类型为无签注销时，进行【无签注销】操作，只需要用户卡即可<table style = "margin-top:-80px">    <tr>       <td><img src="/pub-images/obucancel6.png" width="70%" alt="无签注销"/></td>       <td><img src="/pub-images/obucancel7.png" width="70%" alt="有签注销"/></td>   </tr></table></li></ol><h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ul><li>默认的注销类型：【无签注销】</li><li>注销类型共有二类：【无签注销】</li><li>标签读取车牌和车牌颜色信息失败，请进行【无签注销】操作</li></ul><p>更多故障解决，请参考：<a href="/2019/10/05/problems/">常见故障及其解决方法</a></p>]]></content>
       
       
       
@@ -311,11 +311,11 @@
     
     
     <entry>
-      <title>ETC移动发行系统：用户卡挂失、解挂失</title>
-      <link href="2020/07/06/Card%20loss%20report/"/>
-      <url>2020/07/06/Card%20loss%20report/</url>
+      <title>ETC移动发行系统：用户卡补卡</title>
+      <link href="2020/07/06/Customer%20card%20supplement/"/>
+      <url>2020/07/06/Customer%20card%20supplement/</url>
       
-        <content type="html"><![CDATA[<hr><h2 id="用户卡挂失、解挂失操作流程"><a href="#用户卡挂失、解挂失操作流程" class="headerlink" title="用户卡挂失、解挂失操作流程"></a>用户卡挂失、解挂失操作流程</h2><p> &emsp;&emsp;ETC卡状态正常时才能进行挂失操作，与标签无关；ETC卡已挂失时才能进行解挂失操作；</p><hr><h2 id="用户卡挂失、解挂失操作指南"><a href="#用户卡挂失、解挂失操作指南" class="headerlink" title="用户卡挂失、解挂失操作指南"></a>用户卡挂失、解挂失操作指南</h2><ol><li><p>查询。点击APP主页面【维护功能】-【卡挂失/解挂失】功能，进入卡挂失/解挂失操作页面；</p></li><li><p>输入车牌号、选择车牌颜色、选择操作类型“挂失/解挂失”，点击【查询】，如下图所示：</p><table style="margin-top: -47px;"><td><img src="/pub-images/Cardloss-images/Card loss1.png"  width="70%" /><div style="text-align:center;">图一</div></td><td><img src="/pub-images/Cardloss-images/Card loss2.png"  width="70%" /><div style="text-align:center;">图二</div></td></table></li><li><p>2）挂失/解挂失<br>&emsp;&emsp;    查询成功，界面展示用户信息、车辆信息、ETC卡信息，核对信息无误后，点击界面下方【挂失】按钮或【解挂失】按钮，完成挂失/解挂失操作，如下图所示：</p><table style="margin-top: -47px;"><td><img src="/pub-images/Cardloss-images/Card loss3.png"  width="70%" /><div style="text-align:center;">图一</div></td> <td><img src="/pub-images/Cardloss-images/Card loss4.png"  width="70%" /><div style="text-align:center;">图二</div></td></table></li></ol>]]></content>
+        <content type="html"><![CDATA[<hr><h2 id="用户卡补卡办理操作申请"><a href="#用户卡补卡办理操作申请" class="headerlink" title="用户卡补卡办理操作申请"></a>用户卡补卡办理操作申请</h2><p> &emsp;&emsp;卡状态为挂失状态时才能进行补卡业务，否则先进行卡挂失,兰州银行记账卡挂失后可立即补办，其他银行ETC卡及兰州银行储值卡需等挂失满14天才能进行补办业务、且已挂失的卡暂被加入黑名单工作人员在办理申请时，无需区分这两种情况，系统会自动区分处理，只需要按照提示录入数据即可。</p><hr><h2 id="用户卡补卡办理操作指南"><a href="#用户卡补卡办理操作指南" class="headerlink" title="用户卡补卡办理操作指南"></a>用户卡补卡办理操作指南</h2><ol><li><p>查询。点击APP主页面【维护功能】-【用户卡补办】功能，进入用户卡补办操作页面；</p></li><li><p>输入车牌号、选择车牌颜色，点击【查询】，查询成功，界面展示用户信息、车辆信息、ETC卡信息，核对信息无误后，选择清除卡片类型，如下图所示：</p><table style="margin-top: -47px;"><td><img src="/pub-images/card-images/Customer Card1.png"  width="70%" /><div style="text-align:center;">图一</div></td><td><img src="/pub-images/card-images/Customer Card2.png"  width="73%" /><div style="text-align:center;">图二</div></td></table></li><li><p>先清除旧卡信息再补办<br>&emsp;&emsp;    清除卡片类型选择“清除旧卡信息”，手持机背后放置已挂失的ETC卡片，并点击界面【读旧卡】按钮，如下图所示，旧卡读取成功，界面展示旧卡信息，再点击【销毁旧卡信息】按钮，清除旧卡信息成功后，界面按钮变为【读新卡】；</p><table style="margin-top: -47px;"><td><img src="/pub-images/card-images/Customer Card3.png"  width="82%" /><div style="text-align:center;">图一</div></td> <td><img src="/pub-images/card-images/Customer Card4.png"  width="70%" /><div style="text-align:center;">图二</div></td></table>&emsp;&emsp;    手持机背后放置要补办的新ETC卡，点击界面【读新卡】按钮，界面展示新卡信息，最后点击【补办】按钮完成用户卡补办业务。<img src="/pub-images/card-images/Customer Card5.png"  width="35%" /><div style="text-align:center;">图三</div> &emsp;&emsp;3）旧卡丢失或损坏直接补办  &emsp;&emsp;    清除卡片类型选择“旧卡丢失或损坏”，手持机背后放置要补办的新ETC卡，点击界面按钮【读新卡】—【补办】，完成用户卡补办操作。</li></ol>]]></content>
       
       
       
@@ -324,11 +324,11 @@
     
     
     <entry>
-      <title>ETC移动发行系统：用户卡补卡</title>
-      <link href="2020/07/06/Customer%20card%20supplement/"/>
-      <url>2020/07/06/Customer%20card%20supplement/</url>
+      <title>ETC移动发行系统：用户卡挂失、解挂失</title>
+      <link href="2020/07/06/Card%20loss%20report/"/>
+      <url>2020/07/06/Card%20loss%20report/</url>
       
-        <content type="html"><![CDATA[<hr><h2 id="用户卡补卡办理操作申请"><a href="#用户卡补卡办理操作申请" class="headerlink" title="用户卡补卡办理操作申请"></a>用户卡补卡办理操作申请</h2><p> &emsp;&emsp;卡状态为挂失状态时才能进行补卡业务，否则先进行卡挂失,兰州银行记账卡挂失后可立即补办，其他银行ETC卡及兰州银行储值卡需等挂失满14天才能进行补办业务、且已挂失的卡暂被加入黑名单工作人员在办理申请时，无需区分这两种情况，系统会自动区分处理，只需要按照提示录入数据即可。</p><hr><h2 id="用户卡补卡办理操作指南"><a href="#用户卡补卡办理操作指南" class="headerlink" title="用户卡补卡办理操作指南"></a>用户卡补卡办理操作指南</h2><ol><li><p>查询。点击APP主页面【维护功能】-【用户卡补办】功能，进入用户卡补办操作页面；</p></li><li><p>输入车牌号、选择车牌颜色，点击【查询】，查询成功，界面展示用户信息、车辆信息、ETC卡信息，核对信息无误后，选择清除卡片类型，如下图所示：</p><table style="margin-top: -47px;"><td><img src="/pub-images/card-images/Customer Card1.png"  width="70%" /><div style="text-align:center;">图一</div></td><td><img src="/pub-images/card-images/Customer Card2.png"  width="73%" /><div style="text-align:center;">图二</div></td></table></li><li><p>先清除旧卡信息再补办<br>&emsp;&emsp;    清除卡片类型选择“清除旧卡信息”，手持机背后放置已挂失的ETC卡片，并点击界面【读旧卡】按钮，如下图所示，旧卡读取成功，界面展示旧卡信息，再点击【销毁旧卡信息】按钮，清除旧卡信息成功后，界面按钮变为【读新卡】；</p><table style="margin-top: -47px;"><td><img src="/pub-images/card-images/Customer Card3.png"  width="82%" /><div style="text-align:center;">图一</div></td> <td><img src="/pub-images/card-images/Customer Card4.png"  width="70%" /><div style="text-align:center;">图二</div></td></table>&emsp;&emsp;    手持机背后放置要补办的新ETC卡，点击界面【读新卡】按钮，界面展示新卡信息，最后点击【补办】按钮完成用户卡补办业务。<img src="/pub-images/card-images/Customer Card5.png"  width="35%" /><div style="text-align:center;">图三</div> &emsp;&emsp;3）旧卡丢失或损坏直接补办  &emsp;&emsp;    清除卡片类型选择“旧卡丢失或损坏”，手持机背后放置要补办的新ETC卡，点击界面按钮【读新卡】—【补办】，完成用户卡补办操作。</li></ol>]]></content>
+        <content type="html"><![CDATA[<hr><h2 id="用户卡挂失、解挂失操作流程"><a href="#用户卡挂失、解挂失操作流程" class="headerlink" title="用户卡挂失、解挂失操作流程"></a>用户卡挂失、解挂失操作流程</h2><p> &emsp;&emsp;ETC卡状态正常时才能进行挂失操作，与标签无关；ETC卡已挂失时才能进行解挂失操作；</p><hr><h2 id="用户卡挂失、解挂失操作指南"><a href="#用户卡挂失、解挂失操作指南" class="headerlink" title="用户卡挂失、解挂失操作指南"></a>用户卡挂失、解挂失操作指南</h2><ol><li><p>查询。点击APP主页面【维护功能】-【卡挂失/解挂失】功能，进入卡挂失/解挂失操作页面；</p></li><li><p>输入车牌号、选择车牌颜色、选择操作类型“挂失/解挂失”，点击【查询】，如下图所示：</p><table style="margin-top: -47px;"><td><img src="/pub-images/Cardloss-images/Card loss1.png"  width="70%" /><div style="text-align:center;">图一</div></td><td><img src="/pub-images/Cardloss-images/Card loss2.png"  width="70%" /><div style="text-align:center;">图二</div></td></table></li><li><p>2）挂失/解挂失<br>&emsp;&emsp;    查询成功，界面展示用户信息、车辆信息、ETC卡信息，核对信息无误后，点击界面下方【挂失】按钮或【解挂失】按钮，完成挂失/解挂失操作，如下图所示：</p><table style="margin-top: -47px;"><td><img src="/pub-images/Cardloss-images/Card loss3.png"  width="70%" /><div style="text-align:center;">图一</div></td> <td><img src="/pub-images/Cardloss-images/Card loss4.png"  width="70%" /><div style="text-align:center;">图二</div></td></table></li></ol>]]></content>
       
       
       
